@@ -1,6 +1,6 @@
 {
   "name": "@carbus/tinkoff-payment-sdk",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Carbus Fork of Tinkoff Payment SDK for Node.js",
   "scripts": {
     "build": "run-s build:clean build:compile",
