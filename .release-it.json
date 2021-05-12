@@ -6,7 +6,5 @@
     "github": {
       "release": false
     },
-    "npm": {
-        "release": false
-    }
+    "npm": false
   }
